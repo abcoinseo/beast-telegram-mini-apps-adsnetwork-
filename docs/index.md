@@ -1,7 +1,14 @@
-# Adsbitvex Publisher Documentation
+# Adsbitvex Publisher Documentation v2
 
 Welcome to the **official Adsbitvex Publisher Documentation**.  
-Here you will learn how to register, integrate the SDK, show ads, track reports, and withdraw earnings.
+
+Learn how to:
+
+- Register as a Publisher  
+- Integrate the SDK  
+- Show Reward Ads  
+- Use Direct Link Ads  
+- Track Reports and Withdraw Earnings  
 
 **Docs include:**
 
@@ -9,5 +16,6 @@ Here you will learn how to register, integrate the SDK, show ads, track reports,
 - [Integration Guide](integration.md)  
 - [SDK Integration](sdk-integration.md)  
 - [Show Ads Guide](show-ads-guide.md)  
+- [Direct Link Ads](direct-link.md)  
 - [Reporting & Withdrawal](reporting-withdrawal.md)  
 - [FAQ](faq.md)
