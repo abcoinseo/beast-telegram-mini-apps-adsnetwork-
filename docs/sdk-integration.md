@@ -2,8 +2,6 @@
 
 ## 1️⃣ JavaScript SDK (HTML5 / Web Apps)
 
-Copy this code snippet in your app:
-
 ```html
 <script src="https://bduegbqsqjghdltrkzbg.supabase.co/functions/v1/ad-script?appid=YOUR_APP_ID"></script>
 
