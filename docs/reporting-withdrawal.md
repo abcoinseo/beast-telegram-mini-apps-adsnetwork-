@@ -2,7 +2,7 @@
 
 ## Reports
 
-- Check your dashboard for:
+- Dashboard shows:
   - Total Impressions
   - Total Clicks
   - Earnings
@@ -11,5 +11,5 @@
 ## Withdrawals
 
 - Minimum withdrawal: $50  
-- Withdraw to supported payment methods from dashboard  
-- Ensure correct account info to avoid failed transactions
+- Use dashboard to withdraw to supported payment methods.  
+- Ensure account info is correct to avoid failed transactions.
