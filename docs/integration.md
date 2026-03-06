@@ -8,10 +8,10 @@
 
 **Step 2:** Integration Options  
 
-- **JavaScript SDK**: Use for web apps.  
-- **Native SDK**: Use for mobile apps (Android/iOS).
+- **JavaScript SDK**: For web apps.  
+- **Native SDK**: For mobile apps (Android/iOS).  
 
 **Step 3:** Start Showing Ads  
 
-- Follow [Show Ads Guide](show-ads-guide.md) for detailed instructions.  
-- Track impressions, clicks, and revenue from the dashboard.
+- Follow [Show Ads Guide](show-ads-guide.md)  
+- Track clicks, impressions, and revenue from the dashboard.
