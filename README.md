@@ -1,10 +1,10 @@
-# Adsbitvex Ads Network 🚀
+# Adsbitvex Ads Network v2 🚀
 
-[Adsbitvex](https://adsbitvex.com) is a **reward ads network** for **Telegram Mini Apps** and **HTML5 games**, enabling publishers to monetize apps worldwide.  
+[Adsbitvex](https://adsbitvex.com) is a **reward ads network** for **Telegram Mini Apps**, **HTML5 games**, and now supports **Direct Link Ads**.  
 
-💰 **Earn from Reward Ads**  
-📈 **Promote Your Apps**  
-🌍 **Reach Global Users**
+💰 **Earn from Reward Ads and Direct Links**  
+📈 **Promote Your Apps Worldwide**  
+🌍 **Reach Global Users Instantly**
 
 ---
 
@@ -13,10 +13,10 @@
 - Website: [https://adsbitvex.com](https://adsbitvex.com)  
 - Publisher Registration: [https://adsbitvex.com/?page=register](https://adsbitvex.com/?page=register)  
 - Dashboard: [https://adsbitvex.com/?page=publisher](https://adsbitvex.com/?page=publisher)  
-- Full Docs: [Docs Folder](docs/index.md)
+- Docs: [Docs Folder](docs/index.md)
 
 ---
 
 ## SEO Tags
 
-Adsbitvex, Telegram Mini Apps Ads, HTML5 Game Ads, Reward Ads Network, Earn Online, Ads Network, Digital Marketing, Monetize Apps, Passive Income, Online Business, Global Advertisers, Ads Integration, CPM Ads, Rewarded Ads, Monetization Platform
+Adsbitvex, Telegram Mini Apps Ads, HTML5 Game Ads, Reward Ads Network, Direct Link Ads, Earn Online, Ads Network, Digital Marketing, Monetize Apps, Passive Income, Online Business, Global Advertisers, Ads Integration, CPM Ads, Rewarded Ads, Monetization Platform
